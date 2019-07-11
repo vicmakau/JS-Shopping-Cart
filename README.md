@@ -6,7 +6,7 @@ The **scripts.js** file has the JS functions that handle adding items to cart<br
 
 It works fine, except that if the user clicks the button to <br/>
 push() a second item into the cart array, it only **duplicates the first item already in the cart**. <br/>
-The console output for the output looks like this after clicking on 3 different items: <br/>
+The console output for code looks like this after clicking *on 3 different items:* <br/>
 
 ```
 (1) […]
